@@ -30,6 +30,6 @@ Proyek ini mengikuti struktur yang rapi sesuai instruksi tugas:
 
 
 ## 🎥 Video Demo
-*(Lampirkan link video demo 30 detik Anda di sini)*
+https://github.com/user-attachments/assets/1e3f1e7c-d16f-4067-8e1a-d491d721b272
 
 ---
