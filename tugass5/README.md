@@ -25,9 +25,9 @@ Proyek ini mengikuti struktur yang rapi sesuai instruksi tugas:
 
 ## 📸 Screenshots
 *(Tambahkan screenshot aplikasi Anda di sini)*
-- [Screenshot Notes List]
-- [Screenshot Note Detail]
-- [Screenshot Add/Edit Note]
+- <img width="386" height="858" alt="image" src="https://github.com/user-attachments/assets/c367c43d-e40a-4033-bc0d-2ae70fbc87da" />
+- <img width="385" height="854" alt="image" src="https://github.com/user-attachments/assets/adf7ce99-8469-4912-bf56-d3b9fa27d491" />
+
 
 ## 🎥 Video Demo
 *(Lampirkan link video demo 30 detik Anda di sini)*
