@@ -1,4 +1,4 @@
-<img width="720" height="1600" alt="WhatsApp Image 2026-05-04 at 15 16 25" src="https://github.com/user-attachments/assets/bcdd2c97-88ca-4525-88c2-12f4635670ac" /># Notes App - Tugas 7
+# Notes App - Tugas 7
 
 Aplikasi catatan fungsional yang dibangun dengan praktik pengembangan Android modern, mendukung penyimpanan lokal, manajemen pengaturan, dan penanganan status UI yang tepat.
 
@@ -27,7 +27,7 @@ CREATE TABLE noteEntity (
 ## Screenshots
 | Notes List | Edit Notes | Add Note |
 |:---:|:---:|:---:|
-| ![Empty List](docs/screenshots/notes_empty.png) | <img width="1080" height="2400" alt="WhatsApp Image 2026-05-04 at 15 16 26" src="https://github.com/user-attachments/assets/d39e48d9-17e8-4f70-ad0f-8ef76b207ef1" /> | <img width="1080" height="2400" alt="WhatsApp Image 2026-05-04 at 15 16 28" src="https://github.com/user-attachments/assets/4350540f-4f1f-4fa8-b6cc-4aa7884d6b8d" /> |
+| <img width="720" height="1600" alt="WhatsApp Image 2026-05-04 at 15 16 25" src="https://github.com/user-attachments/assets/bcdd2c97-88ca-4525-88c2-12f4635670ac" /> | <img width="1080" height="2400" alt="WhatsApp Image 2026-05-04 at 15 16 26" src="https://github.com/user-attachments/assets/d39e48d9-17e8-4f70-ad0f-8ef76b207ef1" /> | <img width="1080" height="2400" alt="WhatsApp Image 2026-05-04 at 15 16 28" src="https://github.com/user-attachments/assets/4350540f-4f1f-4fa8-b6cc-4aa7884d6b8d" /> |
 
 | Note Detail | Profile Screen | Settings Screen |
 |:---:|:---:|:---:|
