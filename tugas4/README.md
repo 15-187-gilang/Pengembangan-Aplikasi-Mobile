@@ -35,6 +35,3 @@ Berikut adalah tampilan aplikasi dalam berbagai kondisi:
 <img width="720" height="1600" alt="WhatsApp Image 2026-05-03 at 21 52 57" src="https://github.com/user-attachments/assets/0479f69b-232b-44c4-bd77-923ff5786df0" />
 
 *Tampilan aplikasi saat Dark Mode diaktifkan.*
-
----
-*Catatan: Ganti gambar di folder `screenshots/` dengan hasil screenshot asli Anda.*
