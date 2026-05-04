@@ -27,11 +27,11 @@ CREATE TABLE noteEntity (
 ## Screenshots
 | Notes List | Edit Notes | Add Note |
 |:---:|:---:|:---:|
-| <img width="720" height="1600" alt="WhatsApp Image 2026-05-04 at 15 16 25" src="https://github.com/user-attachments/assets/bcdd2c97-88ca-4525-88c2-12f4635670ac" /> | <img width="1080" height="2400" alt="WhatsApp Image 2026-05-04 at 15 16 26" src="https://github.com/user-attachments/assets/d39e48d9-17e8-4f70-ad0f-8ef76b207ef1" /> | <img width="1080" height="2400" alt="WhatsApp Image 2026-05-04 at 15 16 28" src="https://github.com/user-attachments/assets/4350540f-4f1f-4fa8-b6cc-4aa7884d6b8d" /> |
+| <img width="1080" height="2400" alt="WhatsApp Image 2026-05-04 at 15 16 25" src="https://github.com/user-attachments/assets/bcdd2c97-88ca-4525-88c2-12f4635670ac" /> | <img width="1080" height="2400" alt="WhatsApp Image 2026-05-04 at 15 16 26" src="https://github.com/user-attachments/assets/d39e48d9-17e8-4f70-ad0f-8ef76b207ef1" /> | <img width="1080" height="2400" alt="WhatsApp Image 2026-05-04 at 15 16 28" src="https://github.com/user-attachments/assets/4350540f-4f1f-4fa8-b6cc-4aa7884d6b8d" /> |
 
 | Note Detail | Profile Screen | Settings Screen |
 |:---:|:---:|:---:|
-| <img width="1080" height="2400" alt="WhatsApp Image 2026-05-04 at 16 37 45" src="https://github.com/user-attachments/assets/d0ac58f7-9776-47e4-8c18-408766e81547" /> | <img width="720" height="1600" alt="WhatsApp Image 2026-05-04 at 15 16 27" src="https://github.com/user-attachments/assets/9b4d23af-d1ae-414c-9e50-085e5a05fb86" /> | <img width="1080" height="2400" alt="WhatsApp Image 2026-05-04 at 15 16 27 (1)" src="https://github.com/user-attachments/assets/d2401dcd-4a67-47f1-a208-42b4357e0def" /> |
+| <img width="1080" height="2400" alt="WhatsApp Image 2026-05-04 at 16 37 45" src="https://github.com/user-attachments/assets/d0ac58f7-9776-47e4-8c18-408766e81547" /> | <img width="1080" height="2400" alt="WhatsApp Image 2026-05-04 at 15 16 27" src="https://github.com/user-attachments/assets/9b4d23af-d1ae-414c-9e50-085e5a05fb86" /> | <img width="1080" height="2400" alt="WhatsApp Image 2026-05-04 at 15 16 27 (1)" src="https://github.com/user-attachments/assets/d2401dcd-4a67-47f1-a208-42b4357e0def" /> |
 
 
 ## Video Demo
