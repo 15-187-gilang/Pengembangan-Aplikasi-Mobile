@@ -28,7 +28,7 @@ Aplikasi ini menggunakan **Spaceflight News API v4** sebagai sumber data berita.
 
 | Loading State | Success State (List) | Success State (Detail) |
 | --- | --- | --- |
-| <img width="1080" height="2400" alt="WhatsApp Image 2026-05-03 at 21 23 01" src="https://github.com/user-attachments/assets/8b39131d-c3cc-430c-94c3-d752d84d7e78" /> | <img width="720" height="1600" alt="WhatsApp Image 2026-05-03 at 21 19 13" src="https://github.com/user-attachments/assets/f320465f-6ff6-416c-9c14-a20b9af68d92" /> | <img width="720" height="1600" alt="WhatsApp Image 2026-05-03 at 21 19 14" src="https://github.com/user-attachments/assets/be39f442-05b4-4779-958b-023092c05bda" /> |
+| <img width="720" height="1600" alt="WhatsApp Image 2026-05-03 at 21 23 01" src="https://github.com/user-attachments/assets/8b39131d-c3cc-430c-94c3-d752d84d7e78" /> | <img width="720" height="1600" alt="WhatsApp Image 2026-05-03 at 21 19 13" src="https://github.com/user-attachments/assets/f320465f-6ff6-416c-9c14-a20b9af68d92" /> | <img width="720" height="1600" alt="WhatsApp Image 2026-05-03 at 21 19 14" src="https://github.com/user-attachments/assets/be39f442-05b4-4779-958b-023092c05bda" /> |
 
 ## 🎬 Video Demo
 Video demo berdurasi 30 detik yang menunjukkan fungsionalitas:
