@@ -17,8 +17,8 @@ Aplikasi profil diri sederhana yang dibangun menggunakan **Jetpack Compose** (Ko
 - **Theme**: Material Design 3 (Material3)
 
 ## Screenshot Aplikasi
-![Screenshot Aplikasi](screenshot.png)
-*(Catatan: Pastikan file screenshot.png tersedia di direktori root)*
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-03 at 12 57 10" src="https://github.com/user-attachments/assets/f112cea2-0fe2-4aea-a5a2-d8c65f172e01" />
+
 
 ## Build Status
 - [x] Code dapat di-build tanpa error.
