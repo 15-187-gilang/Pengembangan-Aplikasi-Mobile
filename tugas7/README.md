@@ -1,19 +1,19 @@
-# Notes App - Tugas 7 PAM
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-04 at 15 16 25" src="https://github.com/user-attachments/assets/bcdd2c97-88ca-4525-88c2-12f4635670ac" /># Notes App - Tugas 7
 
-A fully functional Notes application built with modern Android development practices, featuring local persistence, settings management, and proper UI state handling.
+Aplikasi catatan fungsional yang dibangun dengan praktik pengembangan Android modern, mendukung penyimpanan lokal, manajemen pengaturan, dan penanganan status UI yang tepat.
 
 ## Features
-- **Offline-first Architecture**: Data is stored locally using **SQLDelight**, ensuring the app works without internet.
-- **CRUD Operations**: Full support for Creating, Reading, Updating, and Deleting notes.
-- **Search Functionality**: Real-time search across note titles and content.
-- **Settings (DataStore)**: Persistent user preferences for **Dark Mode** and **Sort Order** (Newest, Oldest, Alphabetical) using **Jetpack DataStore**.
-- **UI States**: Robust handling of Loading, Empty, and Content states for a better user experience.
-- **Favorites**: Ability to mark notes as favorites for quick access.
-- **Profile**: A dedicated profile screen to manage user information.
+- **Offline-first Architecture**: Data disimpan secara lokal menggunakan **SQLDelight**, memastikan aplikasi tetap berfungsi tanpa koneksi internet.
+- **CRUD Operations**: Mendukung pembuatan (Create), pembacaan (Read), pembaruan (Update), dan penghapusan (Delete) catatan.
+- **Search Functionality**: Pencarian real-time pada judul dan isi catatan.
+- **Settings (DataStore)**: Preferensi pengguna yang persisten untuk **Mode Gelap (Dark Mode)** dan **Urutan Pengurutan** (Terbaru, Terlama, Abjad) menggunakan **Jetpack DataStore**.
+- **UI States**: Penanganan status *Loading*, *Empty* (Kosong), dan *Content* (Konten) untuk pengalaman pengguna yang lebih baik.
+- **Favorites**: Kemampuan untuk menandai catatan sebagai favorit untuk akses cepat.
+- **Profile**: Layar profil khusus untuk mengelola informasi pengguna.
 
 ## Database Schema
-The application uses SQLDelight for structured local storage. Below is the schema for the `noteEntity` table:
-
+ Aplikasi ini menggunakan SQLDelight untuk penyimpanan lokal terstruktur. Berikut adalah skema untuk tabel `noteEntity`:
+ 
 ```sql
 CREATE TABLE noteEntity (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -25,25 +25,22 @@ CREATE TABLE noteEntity (
 ```
 
 ## Screenshots
-| Notes List (Empty) | Notes List (Content) | Add Note |
+| Notes List | Edit Notes | Add Note |
 |:---:|:---:|:---:|
-| ![Empty List](docs/screenshots/notes_empty.png) | ![Notes Content](docs/screenshots/notes_list.png) | ![Add Note](docs/screenshots/add_note.png) |
+| ![Empty List](docs/screenshots/notes_empty.png) | <img width="1080" height="2400" alt="WhatsApp Image 2026-05-04 at 15 16 26" src="https://github.com/user-attachments/assets/d39e48d9-17e8-4f70-ad0f-8ef76b207ef1" /> | <img width="1080" height="2400" alt="WhatsApp Image 2026-05-04 at 15 16 28" src="https://github.com/user-attachments/assets/4350540f-4f1f-4fa8-b6cc-4aa7884d6b8d" /> |
 
 | Note Detail | Profile Screen | Settings Screen |
 |:---:|:---:|:---:|
-| ![Note Detail](docs/screenshots/note_detail.png) | ![Profile](docs/screenshots/profile.png) | ![Settings](docs/screenshots/settings.png) |
+| <img width="1080" height="2400" alt="WhatsApp Image 2026-05-04 at 16 37 45" src="https://github.com/user-attachments/assets/d0ac58f7-9776-47e4-8c18-408766e81547" /> | <img width="720" height="1600" alt="WhatsApp Image 2026-05-04 at 15 16 27" src="https://github.com/user-attachments/assets/9b4d23af-d1ae-414c-9e50-085e5a05fb86" /> | <img width="1080" height="2400" alt="WhatsApp Image 2026-05-04 at 15 16 27 (1)" src="https://github.com/user-attachments/assets/d2401dcd-4a67-47f1-a208-42b4357e0def" /> |
 
-*(Note: Please place the actual screenshots in the `docs/screenshots/` folder)*
 
 ## Video Demo
-The video below (45 seconds) demonstrates the core functionality of the app:
-1. **CRUD**: Creating a note, viewing details, editing, and deleting.
-2. **Search**: Efficiently finding notes using the search bar.
-3. **Settings**: Changing the app theme to Dark Mode and re-ordering notes.
-4. **Offline Mode**: Showing that data remains intact across app restarts without network dependency.
+Video demo berdurasi 45 detik menunjukkan fungsionalitas inti aplikasi:
+1. **CRUD**: Membuat catatan, melihat detail, mengedit, dan menghapus.
+2. **Pencarian**: Menemukan catatan secara efisien menggunakan bilah pencarian.
+3. **Pengaturan**: Mengubah tema aplikasi ke Mode Gelap dan mengatur ulang urutan catatan.
+4. **Mode Offline**: Menunjukkan bahwa data tetap utuh saat aplikasi dibuka kembali tanpa ketergantungan jaringan.
 
-[Watch Video Demo (Demo.mp4)](docs/demo/demo.mp4)
+https://github.com/user-attachments/assets/dfacde7f-2987-410b-9304-cbac2c568fd9
 
 ---
-**Tugas 7 - Pemrograman Aplikasi Mobile (PAM)**  
-*Teknik Informatika - Institut Teknologi Sumatera (ITERA)*
