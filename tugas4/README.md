@@ -22,15 +22,18 @@ Sesuai dengan instruksi, proyek ini diorganisir ke dalam paket-paket berikut:
 Berikut adalah tampilan aplikasi dalam berbagai kondisi:
 
 ### 1. Profile View
-![Profile View](screenshots/profile_view.png)
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-03 at 21 52 58" src="https://github.com/user-attachments/assets/c5cb030e-9d2d-4679-b19a-62b5012ee221" />
+
 *Tampilan utama profil pengguna.*
 
 ### 2. Edit Form
-![Edit Form](screenshots/edit_form.png)
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-03 at 21 52 57 (1)" src="https://github.com/user-attachments/assets/d5faf033-2752-4942-9860-85f6a8434f33" />
+
 *Formulir untuk mengubah nama dan bio.*
 
 ### 3. Dark Mode
-![Dark Mode](screenshots/dark_mode.png)
+<img width="720" height="1600" alt="WhatsApp Image 2026-05-03 at 21 52 57" src="https://github.com/user-attachments/assets/0479f69b-232b-44c4-bd77-923ff5786df0" />
+
 *Tampilan aplikasi saat Dark Mode diaktifkan.*
 
 ---
